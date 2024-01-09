@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>
-Hi! I'm 27 years old, and I'm a Data Analyst. Throughout my life, I've gained a rich experience in sales, acquired valuable knowledge and an understanding of business processes from the inside, as well as the skills necessary to achieve results in this field. I'm always striving for personal development, and Data Analytics is the next level that I'm conquering with great pleasure, love, and passion :)
+Hi! I'm 28 years old, and I'm a Data Analyst. Throughout my life, I've gained a rich experience in sales, acquired valuable knowledge and an understanding of business processes from the inside, as well as the skills necessary to achieve results in this field. I'm always striving for personal development, and Data Analytics is the next level that I'm conquering with great pleasure, love, and passion :)
   </p>
   <p>
 I successfully apply all of my previous experience in Data Analysis, helping companies make complex decisions. I'm also constantly refining my skills with data analysis tools, and I'm always learning something new to maximize the efficiency that I can provide.
